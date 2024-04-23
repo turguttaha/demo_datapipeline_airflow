@@ -1,0 +1,8 @@
+logs
+plugins
+*.env
+*.cpython-37.pyc
+*.ipynb
+*__pycache__
+*tmp
+.pre-commit-config.yaml
